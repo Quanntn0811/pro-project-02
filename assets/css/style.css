@@ -148,7 +148,7 @@ a {
 }
 
 .hero .img-block .image {
-    width: 470px;
+    width: 82.46%;
     height: 685px;
     border-radius: 20px;
     object-fit: cover;
@@ -158,7 +158,7 @@ a {
 .hero-summary {
     position: absolute;
     top: 393px;
-    left: 300px;
+    left: 52.63%;
     width: 270px;
     padding: 24px;
     background: #ffffff;
