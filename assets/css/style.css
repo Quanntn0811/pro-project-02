@@ -582,6 +582,7 @@ a {
     gap: 30px;
     margin: 25px -30px 0;
     padding: 30px;
+    padding-right: 29px;
     overflow: hidden;
 }
 
